@@ -376,7 +376,7 @@ let store = {};
 try { store = JSON.parse(localStorage.getItem(LS) || "{}"); } catch (e) { store = {}; }
 store.eps = store.eps || {};   // id -> {i: chunkIdx, l: lang the idx refers to, done: bool}
 store.rate = store.rate || 1;
-store.lang = store.lang || "auto"; // auto | en | es
+store.lang = store.lang || "es"; // auto | en | es — this instance defaults to es for both news and deep-dives
 if (typeof store.voice !== "object" || !store.voice) store.voice = { en: store.voice || "", es: "" };
 store.synced = store.synced || []; // repo-listened ids already applied on this device
 function save() { localStorage.setItem(LS, JSON.stringify(store)); }
