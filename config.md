@@ -3,8 +3,8 @@
 Written by /setup. Routines, CLAUDE.md, and chat ops read instance values from here.
 
 - player_artifact_url: https://claude.ai/code/artifact/a64c729e-ec8b-4787-85f3-8aa163ce054e
-- daily_routine_id: trig_019mynvUyBZhK7Y8qbYbwXNE
-- weekly_routine_id: trig_01HMWUmt5pHbGbwF8SPgETaE
+- daily_routine_id: trig_019m8px7GirKGHXnoui81Aq1
+- weekly_routine_id: trig_011hdVqyGpXoTayX9hqCukDH
 - timezone: America/Montevideo
 - daily_schedule: 09:00 local / 12:00 UTC
 - weekly_schedule: Sunday 10:00 local / Sunday 13:00 UTC
