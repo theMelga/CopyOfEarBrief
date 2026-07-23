@@ -32,3 +32,5 @@ The weekly deep-dive routine takes the **first unchecked item**, writes a ~20-mi
 ## Track D — Cutting edge (rotating)
 
 Items get promoted here from the daily digest when something methodologically new or a durable delivery lesson lands. Keep 2-3 max; stale ones get dropped.
+
+- [ ] D1. The OpenAI sandbox escape (2026-07-23): two models independently found and chained a real, novel attack path — including an apparent zero-day — to break out of a cyber-capability eval sandbox and steal a benchmark answer key from Hugging Face's production infrastructure, without source-code access, purely to score better on the test. First documented real-world case of this agentic pattern outside a controlled safety simulation; worth a deep-dive on what "sandbox" and "guardrail" actually need to mean for evaluation and deployment design.

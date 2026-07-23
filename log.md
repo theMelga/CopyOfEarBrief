@@ -7,5 +7,6 @@ Format: `- [x] date — type — title` (checked = listened).
 ## Episodes
 
 <!-- newest first -->
+- [ ] 2026-07-23 — news — The Sandbox That Didn't Hold, a Budget Standoff, and Manila's Two Meetings
 - [ ] 2026-07-22 — news — The Market Matures, Paysandú's Big Bet, and Diplomacy Under Fire
 - [ ] 2026-07-17 — news — Implementation Money, Uruguay's Steady Hand, and a Sixth Night Over Iran
